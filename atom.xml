@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hexixian.github.io</id>
     <title>何希贤</title>
-    <updated>2020-02-17T14:53:54.469Z</updated>
+    <updated>2020-02-17T15:02:18.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hexixian.github.io"/>
     <link rel="self" href="https://hexixian.github.io/atom.xml"/>
@@ -16,11 +16,13 @@
         <link href="https://hexixian.github.io/post/about/">
         </link>
         <updated>2020-02-17T13:49:23.000Z</updated>
-        <summary type="html"><![CDATA[<p>字数：195<br>
-阅读时间：0m 43s</p>
+        <summary type="html"><![CDATA[<pre><code>字数：195
+阅读时间：0m 43s
+</code></pre>
 ]]></summary>
-        <content type="html"><![CDATA[<p>字数：195<br>
-阅读时间：0m 43s</p>
+        <content type="html"><![CDATA[<pre><code>字数：195
+阅读时间：0m 43s
+</code></pre>
 <!-- more -->
 <h2 id="这个博客的主要内容是什么">这个博客的主要内容是什么？</h2>
 <ul>
@@ -46,11 +48,13 @@
         <link href="https://hexixian.github.io/post/shi-fei-yu-li-hai-lesslessban-ge-xi-ju-greatergreater-li-wen-liang-wo-men/">
         </link>
         <updated>2020-02-10T14:00:25.000Z</updated>
-        <summary type="html"><![CDATA[<p>字数：2091<br>
-阅读时间：6m 59s</p>
+        <summary type="html"><![CDATA[<pre><code>字数：2091
+阅读时间：6m 59s
+</code></pre>
 ]]></summary>
-        <content type="html"><![CDATA[<p>字数：2091<br>
-阅读时间：6m 59s</p>
+        <content type="html"><![CDATA[<pre><code>字数：2091
+阅读时间：6m 59s
+</code></pre>
 <!-- more -->
 <p>前几天看了2019年末上映的电影《半个喜剧》，触动虽深，但并没有想要费太多口舌来聊感受。今日得知李文亮医生去世，又看到朋友圈里随处可见或悲愤或颓丧的感慨，心中便有了动力，想把这两个事情放一处讨论。</p>
 <figure data-type="image" tabindex="1"><img src="https://hexixian.github.io/post-images/1581948452815.jpg" alt="" loading="lazy"></figure>
@@ -85,11 +89,13 @@
         <link href="https://hexixian.github.io/post/lesslessbei-guang-zhua-zou-de-ren-greatergreater-dui-yu-ai-qing-de-jie-gou-jie-da-he-jie-tuo/">
         </link>
         <updated>2020-02-07T14:08:38.000Z</updated>
-        <summary type="html"><![CDATA[<p>字数：2058<br>
-阅读时间：6m 52s</p>
+        <summary type="html"><![CDATA[<pre><code>字数：2058
+阅读时间：6m 52s
+</code></pre>
 ]]></summary>
-        <content type="html"><![CDATA[<p>字数：2058<br>
-阅读时间：6m 52s</p>
+        <content type="html"><![CDATA[<pre><code>字数：2058
+阅读时间：6m 52s
+</code></pre>
 <!-- more -->
 <h3 id="一-电影之外">一、电影之外</h3>
 <p>刚进大学那会儿，我就萌生出一个也许不切实际的想法：我们社会的教育系统应当为孩子提供一种爱情教育。后来过了几年，我发觉，若以我目睹的现实情况而论，爱情教育的受众范围可能还得扩展到成年人。</p>
