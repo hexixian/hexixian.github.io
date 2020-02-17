@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hexixian.github.io</id>
     <title>何希贤</title>
-    <updated>2020-02-17T14:37:38.184Z</updated>
+    <updated>2020-02-17T14:53:54.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hexixian.github.io"/>
     <link rel="self" href="https://hexixian.github.io/atom.xml"/>
@@ -16,7 +16,13 @@
         <link href="https://hexixian.github.io/post/about/">
         </link>
         <updated>2020-02-17T13:49:23.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="这个博客的主要内容是什么">这个博客的主要内容是什么？</h2>
+        <summary type="html"><![CDATA[<p>字数：195<br>
+阅读时间：0m 43s</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>字数：195<br>
+阅读时间：0m 43s</p>
+<!-- more -->
+<h2 id="这个博客的主要内容是什么">这个博客的主要内容是什么？</h2>
 <ul>
 <li>人类学/社会学</li>
 <li>影视剧</li>
@@ -31,7 +37,7 @@
 </ol>
 <h2 id="这个博客会持续更新吗">这个博客会持续更新吗？</h2>
 <p><s>当然不会</s><br>
-如果想看到更多新内容，请发送电子邮件至hexixian@nju.edu.cn，<s>催更</s>与我联系！</p>
+如果想看到更多新内容，请发送电子邮件至hexixian@nju.edu.cn，~~ 催更 ~~与我联系！</p>
 ]]></content>
     </entry>
     <entry>
@@ -40,7 +46,13 @@
         <link href="https://hexixian.github.io/post/shi-fei-yu-li-hai-lesslessban-ge-xi-ju-greatergreater-li-wen-liang-wo-men/">
         </link>
         <updated>2020-02-10T14:00:25.000Z</updated>
-        <content type="html"><![CDATA[<p>前几天看了2019年末上映的电影《半个喜剧》，触动虽深，但并没有想要费太多口舌来聊感受。今日得知李文亮医生去世，又看到朋友圈里随处可见或悲愤或颓丧的感慨，心中便有了动力，想把这两个事情放一处讨论。</p>
+        <summary type="html"><![CDATA[<p>字数：2091<br>
+阅读时间：6m 59s</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>字数：2091<br>
+阅读时间：6m 59s</p>
+<!-- more -->
+<p>前几天看了2019年末上映的电影《半个喜剧》，触动虽深，但并没有想要费太多口舌来聊感受。今日得知李文亮医生去世，又看到朋友圈里随处可见或悲愤或颓丧的感慨，心中便有了动力，想把这两个事情放一处讨论。</p>
 <figure data-type="image" tabindex="1"><img src="https://hexixian.github.io/post-images/1581948452815.jpg" alt="" loading="lazy"></figure>
 <h3 id="一-浅薄的半个喜剧">一、“浅薄”的《半个喜剧》</h3>
 <p>电影的故事其实很简单，甚至有些俗套。大概而言，一个来自东北小镇、家庭普通的年轻人想要毕业后能在北京立足，面临着艰难的选择：要么向富二代室友卑躬屈膝、隐瞒甚至舍弃爱情以谋求一份工作和户口，要么坚守爱情并揭露富二代的不良行径，但可能会得罪富二代、失去工作机会和即将到手的北京户口。</p>
@@ -73,7 +85,13 @@
         <link href="https://hexixian.github.io/post/lesslessbei-guang-zhua-zou-de-ren-greatergreater-dui-yu-ai-qing-de-jie-gou-jie-da-he-jie-tuo/">
         </link>
         <updated>2020-02-07T14:08:38.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="一-电影之外">一、电影之外</h3>
+        <summary type="html"><![CDATA[<p>字数：2058<br>
+阅读时间：6m 52s</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>字数：2058<br>
+阅读时间：6m 52s</p>
+<!-- more -->
+<h3 id="一-电影之外">一、电影之外</h3>
 <p>刚进大学那会儿，我就萌生出一个也许不切实际的想法：我们社会的教育系统应当为孩子提供一种爱情教育。后来过了几年，我发觉，若以我目睹的现实情况而论，爱情教育的受众范围可能还得扩展到成年人。</p>
 <p>因为，就我所观察到的人们对于“爱情”的实践而言，在没有系统引导和独立思考的情况下，大多数人都只是秉持了某种对爱情的简单幻想，然后选择一头扎进或者不扎进爱河而已。这或许并不是我们的罪过，毕竟爱情本身很难作为一个孤立的客体去认识，它的一部分本质，本来就植根于人类自身生心理基础之中。换言之，作为认识主体的人类有多么复杂，作为认识客体的爱情就会有多么复杂。</p>
 <p>然而，人类自掌握语言和思维工具伊始，就乐于给自己的一切所作所为找理由——如对于爱或者不爱的理由，我们越来越不满足于显性的生理欲望及其表征，而是开始编织、摸索更复杂的意义之网：歌颂者如“窈窕淑女，君子好逑”，贬损者如“爱情不过是谎言”等等，并试图用这些对爱情的局部认识来作为自己爱情实践中某些决策与行为的理由。而这些局部认识，大多是一些不自觉的盲人摸象，而它们在作为某种经典流传后，更是成为了被动接受者对爱情进行幻想的二手素材。</p>
